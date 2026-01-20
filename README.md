@@ -1,7 +1,7 @@
 # 🌳 TREE – The Reusable Engineering Ecosystem
 
 ### 🚀 AI-Powered Skill Kit for Google Antigravity  
-Created & Maintained by **Ashish Saini (livealyx)**
+Created & Maintained by **Ashish Saini (livealyx) - Creative ALT Media Group**
 
 ---
 
@@ -100,7 +100,7 @@ antigravity list-skills
 
 # 📞 Contact & Support
 
-**Author:** Ashish Saini (livealyx)
+**Author:** Ashish Saini (livealyx) - Creative ALT Media Group
 
 - 🌐 Website: https://creativealt.in  
 - 📧 Email: ashish@creativealt.in  
