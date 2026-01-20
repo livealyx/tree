@@ -77,6 +77,13 @@ TREE helps developers and AI agents to:
 
 # 🛠 How to Install TREE
 
+## First Create .agent/skills (CLI Method)
+
+```bash
+cd C:\Users\livea\.antigravity
+mkdir .agent
+mkdir .agent\skills
+```
 ## Installation (CLI Method)
 
 ```bash
