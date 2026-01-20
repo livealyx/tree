@@ -91,7 +91,9 @@ cd C:\Users\YOUR_USERNAME\.antigravity\.agent\skills
 git clone https://github.com/livealyx/TREE.git
 ```
 
-Reload skills:
+## Open Antigravity "Terminal / CLI Panel"
+
+For Reload skills:
 
 ```bash
 antigravity reload-skills
