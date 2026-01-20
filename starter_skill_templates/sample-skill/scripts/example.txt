@@ -1,0 +1,2 @@
+# Sample script template
+# Place automation prompts or templates here
